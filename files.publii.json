@@ -1,0 +1,1047 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "bbfbb701318fc93ad6ca66a1427708a6"
+    },
+    {
+        "path": "acme-furniture-catalog-explore-our-new-arrivals",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/acme-furniture-catalog-explore-our-new-arrivals/index.html",
+        "type": "file",
+        "md5": "5f2c3d5c3f2a0788b747aad825df65a6"
+    },
+    {
+        "path": "art-furniture-catalog-luxury-designs-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/art-furniture-catalog-luxury-designs-for-your-home/index.html",
+        "type": "file",
+        "md5": "fb9262da3954418d10155672ade09fef"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0cdb59ef5ff45200c1fa7f118fea017e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "88dda875daf02232d75ef94fa550f516"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/bassma-fouady",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bassma-fouady/index.html",
+        "type": "file",
+        "md5": "e18a366108143b443f97454086904f91"
+    },
+    {
+        "path": "authors/bassma-fouady/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/bassma-fouady/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bassma-fouady/page/2/index.html",
+        "type": "file",
+        "md5": "c26e73af3fe5ef71f82b578c6e7d13ab"
+    },
+    {
+        "path": "authors/bassma-fouady/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bassma-fouady/page/3/index.html",
+        "type": "file",
+        "md5": "b3c23de7b82294358ccc5554aa2b7d0c"
+    },
+    {
+        "path": "authors/bassma-fouady/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bassma-fouady/page/4/index.html",
+        "type": "file",
+        "md5": "7184171ef25dff4b926e3d9b3c35bb9e"
+    },
+    {
+        "path": "authors/bassma-fouady/page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bassma-fouady/page/5/index.html",
+        "type": "file",
+        "md5": "d13ca29a0b60dd7f00a612a92165034b"
+    },
+    {
+        "path": "authors/bassma-fouady/page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bassma-fouady/page/6/index.html",
+        "type": "file",
+        "md5": "a6ce747d2a72ac20212f9adb91a400b6"
+    },
+    {
+        "path": "best-deals-on-bedroom-sets-affordable-luxury-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-deals-on-bedroom-sets-affordable-luxury-for-your-home/index.html",
+        "type": "file",
+        "md5": "94966a25bde0e7b60cccfc0a5b307e19"
+    },
+    {
+        "path": "big-living-room-sets-perfect-for-family-gatherings",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/big-living-room-sets-perfect-for-family-gatherings/index.html",
+        "type": "file",
+        "md5": "8a3b583b3b0091d7550c5f21bc48f8ee"
+    },
+    {
+        "path": "black-living-room-sets-for-a-bold-modern-look",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/black-living-room-sets-for-a-bold-modern-look/index.html",
+        "type": "file",
+        "md5": "89b69feb9b7a8aeedd507ceb1f6a0e3a"
+    },
+    {
+        "path": "brown-leather-living-room-sets-warmth-and-comfort-combined",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/brown-leather-living-room-sets-warmth-and-comfort-combined/index.html",
+        "type": "file",
+        "md5": "2ba0ee45a208b24f617b2ef57de07e1e"
+    },
+    {
+        "path": "classic-leather-living-room-sets-timeless-and-comfortable",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/classic-leather-living-room-sets-timeless-and-comfortable/index.html",
+        "type": "file",
+        "md5": "b8ddf3d2af7a9f468e97427ff99cea06"
+    },
+    {
+        "path": "coaster-furniture-catalog-quality-furniture-for-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/coaster-furniture-catalog-quality-furniture-for-every-home/index.html",
+        "type": "file",
+        "md5": "191b03eb894520b33abc438a4d9b9202"
+    },
+    {
+        "path": "diamond-sofa-furniture-catalog-stylish-sofas-for-every-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/diamond-sofa-furniture-catalog-stylish-sofas-for-every-space/index.html",
+        "type": "file",
+        "md5": "8c98f6b6f786e043a70c7e7cf55558bc"
+    },
+    {
+        "path": "discounted-bedroom-furniture-sets-shop-for-great-deals",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discounted-bedroom-furniture-sets-shop-for-great-deals/index.html",
+        "type": "file",
+        "md5": "3d6c0bccbc7aa1c2a0668178fbb70e12"
+    },
+    {
+        "path": "elegant-queen-bedroom-sets-create-a-cozy-and-chic-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-queen-bedroom-sets-create-a-cozy-and-chic-space/index.html",
+        "type": "file",
+        "md5": "d89ef6e79ba829946196e80d48469630"
+    },
+    {
+        "path": "esf-furniture-catalog-discover-premium-furniture-styles",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/esf-furniture-catalog-discover-premium-furniture-styles/index.html",
+        "type": "file",
+        "md5": "c2c59f917740fdb0f59a48c5edcbc197"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "5ba2d924502f192b7a55135ceed9ae3c"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "07456b92416c5140f477a081f9a2face"
+    },
+    {
+        "path": "furniture-of-america-catalog-timeless-furniture-collections",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/furniture-of-america-catalog-timeless-furniture-collections/index.html",
+        "type": "file",
+        "md5": "ada82ae7f233e188bac855c4fc8793ce"
+    },
+    {
+        "path": "grey-bedroom-furniture-sets-for-a-modern-sleek-look",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/grey-bedroom-furniture-sets-for-a-modern-sleek-look/index.html",
+        "type": "file",
+        "md5": "590fb82c22ba59ab32630c35c9dde50f"
+    },
+    {
+        "path": "homelegance-furniture-catalog-elegant-quality-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homelegance-furniture-catalog-elegant-quality-furniture/index.html",
+        "type": "file",
+        "md5": "2983a88b764b9f8bef29b8105b74ffc1"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "b1c7b54e4ece422ced122b61f456ca7c"
+    },
+    {
+        "path": "italian-living-room-furniture-sets-luxury-and-style-combined",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/italian-living-room-furniture-sets-luxury-and-style-combined/index.html",
+        "type": "file",
+        "md5": "cbd18842fcd63166e20e70341b833274"
+    },
+    {
+        "path": "large-living-room-sets-for-spacious-and-comfortable-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/large-living-room-sets-for-spacious-and-comfortable-living/index.html",
+        "type": "file",
+        "md5": "359badcd9b85c67f220a2695a5a2e222"
+    },
+    {
+        "path": "luxury-dressers-with-mirrors-the-perfect-blend-of-beauty-and-practicality",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-dressers-with-mirrors-the-perfect-blend-of-beauty-and-practicality/index.html",
+        "type": "file",
+        "md5": "51478cd7f8e788ea7ece6dc31186b61a"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/555-LIVING-1.webp",
+        "type": "file",
+        "md5": "3705300aea7046e723f74befc2e9b0e8"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/output1.png",
+        "type": "file",
+        "md5": "602720a1dc53f385de069557719e79b3"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/original-38-scaled-1-1.webp",
+        "type": "file",
+        "md5": "6626353be03c2ee72ca6366250da2846"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/prestige-italian-living-room-furniture-2.webp",
+        "type": "file",
+        "md5": "fd923713364632d234092fcd84530b04"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/89-CHAIR-1.jpg",
+        "type": "file",
+        "md5": "bbe6ea54aea684cd1720bf00ad566cb4"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/WhatsApp-Image-2021-12-04-at-6.57.54-PM-2.webp",
+        "type": "file",
+        "md5": "1b58e5af97ea6eed9d1b821c62d29f3d"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/luxury-furniture-32.webp",
+        "type": "file",
+        "md5": "3f2cccb94d1a9743f2c9513c8a0bbe77"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/luxury-furniture-store-near-me-1.webp",
+        "type": "file",
+        "md5": "2f178206b0807d83bbaac98fc06410a1"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/website-file.webp",
+        "type": "file",
+        "md5": "5d74452104b444c51cf68cc68b0cf49b"
+    },
+    {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/HD-8086-CT3-1.webp",
+        "type": "file",
+        "md5": "b6e05bc1dff1241124b11b5eee7cc0fb"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/Spain_Bo1-Bunk-Bed-190cm-jpg-2.webp",
+        "type": "file",
+        "md5": "7c6fcbe0abca4329e76ffc20a81a7e74"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/french-style-furniture-1.webp",
+        "type": "file",
+        "md5": "489c2fa68a208aee4d7223053df7d001"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/foa-bk653-1.webp",
+        "type": "file",
+        "md5": "d58f604f9f2d61fddf28c64c9d4625ad"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/homey-design-dining-room-sets-1.webp",
+        "type": "file",
+        "md5": "7628a877be3bef2f114257f8ea44540b"
+    },
+    {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/image_387-2.webp",
+        "type": "file",
+        "md5": "97cabf168cdd2598d89add8280f59241"
+    },
+    {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/prestige-italian-living-room-furniture-1.webp",
+        "type": "file",
+        "md5": "1ddce8846114c460d54d50c67d84ab0b"
+    },
+    {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/ALCOVE-BAR-CABINET-2.webp",
+        "type": "file",
+        "md5": "baefc528fde6c6c11be136be84b81578"
+    },
+    {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/d159da_85dd4a10b65f47a2a1156ec65134191d_mv2-2-1.webp",
+        "type": "file",
+        "md5": "a9ccd2c75a905e8c4aedbd6a1f4a1621"
+    },
+    {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/HD-8089-CT3-1.webp",
+        "type": "file",
+        "md5": "2bf949c65982b424268280da04d4eea2"
+    },
+    {
+        "path": "media/posts/27",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/dresser-with-mirror-1.webp",
+        "type": "file",
+        "md5": "4e2dee61595566cbdb64bdaa660b07b9"
+    },
+    {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/HD-8089-CT3.webp",
+        "type": "file",
+        "md5": "2bf949c65982b424268280da04d4eea2"
+    },
+    {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/HD-8086-CT3-1.webp",
+        "type": "file",
+        "md5": "b6e05bc1dff1241124b11b5eee7cc0fb"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/luxurious-dining-room-sets.webp",
+        "type": "file",
+        "md5": "d7b1ed976d9972fcc6ef83d1c0cb5bb4"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/luxury-sofa-sets-for-living-room-1.webp",
+        "type": "file",
+        "md5": "6c23ffebd3d01e127aa61367b609eb9b"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Apolo-Black-Sofa-Set.jpg",
+        "type": "file",
+        "md5": "05694df59fb60fb574cdb5a597e1a73d"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/royal-living-room-furniture-1.webp",
+        "type": "file",
+        "md5": "34c3d6255053613f725597ec5bfce6ce"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/1808-Bench-2.webp",
+        "type": "file",
+        "md5": "975313ee6850d764ef42a4c272b1ec17"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/high-gloss-lacquer-bedroom-furniture-1.webp",
+        "type": "file",
+        "md5": "99cd1e16ec378fb4bca7452e72367c91"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/mc24.webp",
+        "type": "file",
+        "md5": "4d3f6bf0b242ef34d4f7755a122756a0"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/luxury-dining-table.jpg",
+        "type": "file",
+        "md5": "5282955d9f71b220301b7f1689cb7304"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/luxury-dining-table-2xl.jpg",
+        "type": "file",
+        "md5": "c7429cd60a6d20e6f637e03b05910a10"
+    },
+    {
+        "path": "/media/website/responsive/luxury-dining-table-lg.jpg",
+        "type": "file",
+        "md5": "c7429cd60a6d20e6f637e03b05910a10"
+    },
+    {
+        "path": "/media/website/responsive/luxury-dining-table-md.jpg",
+        "type": "file",
+        "md5": "59e3aea6cf00f2c97b686dca5a93cbb6"
+    },
+    {
+        "path": "/media/website/responsive/luxury-dining-table-sm.jpg",
+        "type": "file",
+        "md5": "594b14c51ffb34c31ef4313fc347c8a8"
+    },
+    {
+        "path": "/media/website/responsive/luxury-dining-table-xl.jpg",
+        "type": "file",
+        "md5": "c7429cd60a6d20e6f637e03b05910a10"
+    },
+    {
+        "path": "/media/website/responsive/luxury-dining-table-xs.jpg",
+        "type": "file",
+        "md5": "2d5279d8eb12889ab1cbcb51d8502984"
+    },
+    {
+        "path": "modern-bedroom-furniture-sets-create-a-contemporary-oasis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-bedroom-furniture-sets-create-a-contemporary-oasis/index.html",
+        "type": "file",
+        "md5": "e053b1d14d16e4df724974e172e6af62"
+    },
+    {
+        "path": "modern-living-room-sets-sleek-designs-for-contemporary-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-living-room-sets-sleek-designs-for-contemporary-homes/index.html",
+        "type": "file",
+        "md5": "5f570628820e8fc095df3a1c96020d13"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "9c04c49c4484f16744180b0a2cdf385a"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "17c4dfc904859dd39d4bc8d0e3ddd67a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "bc1ecc4322c01bddb388e50e27934d15"
+    },
+    {
+        "path": "silver-dining-room-table-a-perfect-blend-of-style-and-function",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/silver-dining-room-table-a-perfect-blend-of-style-and-function/index.html",
+        "type": "file",
+        "md5": "c8556fb31e1cf4097df87e8ae1808e4a"
+    },
+    {
+        "path": "silver-living-room-furniture-elegant-designs-for-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/silver-living-room-furniture-elegant-designs-for-every-home/index.html",
+        "type": "file",
+        "md5": "9318f035a8b7f3e28c2f332cb4b42699"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "1c112be3b00581e27b49613f0f2ff57a"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/acme-furniture-catalogue",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/acme-furniture-catalogue/index.html",
+        "type": "file",
+        "md5": "7d8b8fdee7d49185d00fbfaed2334787"
+    },
+    {
+        "path": "tags/art-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/art-furniture/index.html",
+        "type": "file",
+        "md5": "0a28948324676a17a1a3980156173ce0"
+    },
+    {
+        "path": "tags/bedroom-chests",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bedroom-chests/index.html",
+        "type": "file",
+        "md5": "4a7331b44d77146992c64b77b43e7d9b"
+    },
+    {
+        "path": "tags/bedroom-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bedroom-furniture/index.html",
+        "type": "file",
+        "md5": "9c1d43ba3f1237e8c2a5817fd82299b4"
+    },
+    {
+        "path": "tags/bedroom-furniture/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/bedroom-furniture/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bedroom-furniture/page/2/index.html",
+        "type": "file",
+        "md5": "b1cd7e83c5c783a3f70ec3895dfc5119"
+    },
+    {
+        "path": "tags/bedroom-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bedroom-sets/index.html",
+        "type": "file",
+        "md5": "990aeb875045fdd7fd5021b143491014"
+    },
+    {
+        "path": "tags/coaster-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/coaster-furniture/index.html",
+        "type": "file",
+        "md5": "b11dcb2393d86ea440a3ccbabd1da091"
+    },
+    {
+        "path": "tags/diamond-sofa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/diamond-sofa/index.html",
+        "type": "file",
+        "md5": "07196c4bab9e650ff5e5511f2fcf89e8"
+    },
+    {
+        "path": "tags/dining-room-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/dining-room-tables/index.html",
+        "type": "file",
+        "md5": "4fd19c296422b06babeae9d8e780c5e4"
+    },
+    {
+        "path": "tags/esf-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/esf-furniture/index.html",
+        "type": "file",
+        "md5": "ed565c39a6d149b48d5115ec23ad0d0f"
+    },
+    {
+        "path": "tags/furniture-of-america",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/furniture-of-america/index.html",
+        "type": "file",
+        "md5": "356f3406e7ca6cef0ed6ef4dfe8a9d4d"
+    },
+    {
+        "path": "tags/homelegance-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/homelegance-furniture/index.html",
+        "type": "file",
+        "md5": "95069c2c37c1fac16acde2bec3bddfdf"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "da7dbd12632ed5e6db0754f58a20dbdc"
+    },
+    {
+        "path": "tags/living-room-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/living-room-furniture/index.html",
+        "type": "file",
+        "md5": "aac1b52042f8df75bf9543089633eb48"
+    },
+    {
+        "path": "tags/living-room-furniture/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/living-room-furniture/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/living-room-furniture/page/2/index.html",
+        "type": "file",
+        "md5": "f3e0d66b4d018a9d7cf8e5b21ddf3835"
+    },
+    {
+        "path": "tags/living-room-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/living-room-sets/index.html",
+        "type": "file",
+        "md5": "638656ff197b062e71004e30a4998dac"
+    },
+    {
+        "path": "tags/luxury-dressers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/luxury-dressers/index.html",
+        "type": "file",
+        "md5": "367b7e03becf7ab3483bfd6e8018d0c6"
+    },
+    {
+        "path": "tags/wood-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wood-furniture/index.html",
+        "type": "file",
+        "md5": "a20569e81b2660e4e2603e04f1cd88a0"
+    },
+    {
+        "path": "top-10-media-bedroom-chests-to-keep-your-space-organized-in-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-10-media-bedroom-chests-to-keep-your-space-organized-in-style/index.html",
+        "type": "file",
+        "md5": "ceba1a5e8051da8683006a94a7efa83a"
+    },
+    {
+        "path": "walnut-bedroom-furniture-sets-for-a-rich-classic-look",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/walnut-bedroom-furniture-sets-for-a-rich-classic-look/index.html",
+        "type": "file",
+        "md5": "69f2a08e71c94ba59ff93370169d9504"
+    },
+    {
+        "path": "white-and-gold-bedroom-sets-for-a-luxurious-bedroom",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/white-and-gold-bedroom-sets-for-a-luxurious-bedroom/index.html",
+        "type": "file",
+        "md5": "4f0b29867aeb4ea6054ec0800f5280a2"
+    },
+    {
+        "path": "white-and-gold-side-tables-a-chic-and-modern-accent",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/white-and-gold-side-tables-a-chic-and-modern-accent/index.html",
+        "type": "file",
+        "md5": "29136bb4bd041c03d73d3631377e1008"
+    },
+    {
+        "path": "white-leather-living-room-sets-for-a-fresh-elegant-look",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/white-leather-living-room-sets-for-a-fresh-elegant-look/index.html",
+        "type": "file",
+        "md5": "0af4a627b036ae92916d137a9e9f0c82"
+    },
+    {
+        "path": "white-living-room-sets-light-and-airy-designs-for-any-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/white-living-room-sets-light-and-airy-designs-for-any-space/index.html",
+        "type": "file",
+        "md5": "6813a3c53f564e59fa5cae9c2481ed4b"
+    },
+    {
+        "path": "wood-bedroom-furniture-sets-classic-styles-for-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/wood-bedroom-furniture-sets-classic-styles-for-every-home/index.html",
+        "type": "file",
+        "md5": "3457fc262a3f096f630f74601269b14c"
+    }
+]
